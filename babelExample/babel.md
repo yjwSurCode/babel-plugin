@@ -1,0 +1,1 @@
+npm i eslint-plugin-react -D
