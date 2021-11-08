@@ -229,3 +229,5 @@ npm i jest
 - 4.4 创建 vite.config.js 文件
   <a href="https://vitejs.dev/config/" target="_blank"> 官方地址：https://vitejs.dev/config/</a>
 - 4.5 创建.babelrc(babel.config.js)文件调用自定义插件。
+
+<a href="https://github.com/yjwSurCode/mini-vue" target="_blank">github 地址</a>
